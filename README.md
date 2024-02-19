@@ -1,6 +1,5 @@
 # disaster-analysis
 
-## Leveraging AI for Environmental Conservation
 ### 1. Introduction
 The project aims to address the escalating environmental challenges through the development of an AI-powered system. By harnessing AI technologies, the system seeks to monitor, analyze, and mitigate environmental issues, thereby promoting sustainable practices and aiding in disaster preparedness and response efforts.
 
@@ -41,3 +40,12 @@ The project demonstrates the potential of AI in addressing environmental challen
 1. Model Enhancement: Continuous refinement and improvement of AI models for better prediction accuracy and reliability.
 2. Scale-up and Deployment: Deployment of the system on a larger scale to serve broader communities and regions.
 3. Integration with Decision Support Systems: Integration with decision support systems to facilitate real-time decision-making based on AI-generated insights.
+
+## Demo
+![scrnli_2_19_2024_7-42-01 PM](https://github.com/anushatomar13/disaster-analysis/assets/124388209/e987e227-6ea1-4d79-86ce-241e83f8d05e)
+
+![scrnli_2_19_2024_7-40-53 PM](https://github.com/anushatomar13/disaster-analysis/assets/124388209/f0521eda-d311-4b8d-ba1f-fa5a2ca60824)
+
+
+
+
