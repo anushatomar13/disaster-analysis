@@ -41,7 +41,7 @@ The project demonstrates the potential of AI in addressing environmental challen
 2. Scale-up and Deployment: Deployment of the system on a larger scale to serve broader communities and regions.
 3. Integration with Decision Support Systems: Integration with decision support systems to facilitate real-time decision-making based on AI-generated insights.
 
-## Demo
+## Sample screenshots
 ![scrnli_2_19_2024_7-42-01 PM](https://github.com/anushatomar13/disaster-analysis/assets/124388209/e987e227-6ea1-4d79-86ce-241e83f8d05e)
 
 ![scrnli_2_19_2024_7-40-53 PM](https://github.com/anushatomar13/disaster-analysis/assets/124388209/f0521eda-d311-4b8d-ba1f-fa5a2ca60824)
