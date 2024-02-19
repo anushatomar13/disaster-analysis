@@ -42,9 +42,16 @@ The project demonstrates the potential of AI in addressing environmental challen
 3. Integration with Decision Support Systems: Integration with decision support systems to facilitate real-time decision-making based on AI-generated insights.
 
 ## Sample screenshots
+
+
 ![scrnli_2_19_2024_7-42-01 PM](https://github.com/anushatomar13/disaster-analysis/assets/124388209/e987e227-6ea1-4d79-86ce-241e83f8d05e)
 
+
+![image](https://github.com/anushatomar13/disaster-analysis/assets/124388209/8b980bf1-2d05-430a-9806-249826f0b2a1)
+
+
 ![scrnli_2_19_2024_7-40-53 PM](https://github.com/anushatomar13/disaster-analysis/assets/124388209/f0521eda-d311-4b8d-ba1f-fa5a2ca60824)
+
 
 
 
